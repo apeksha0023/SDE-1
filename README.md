@@ -76,5 +76,5 @@ Provide your submission within **7 days** from the date of receiving this assign
 
 If you have any questions, feel free to reach out to us.
 
-Good luck, and we look forward to seeing your implementation!
+Good luck, and we look forward to seeing your submission!
 
