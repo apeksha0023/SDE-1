@@ -14,7 +14,7 @@ This assignment is designed to assess your skills in building a modern frontend 
 #### 1. Technology Stack
 
 - **React**&#x20;
-- **Shadcn** ([Shadcn UI Component Library](https://ui.shadcn.com/))
+- **Shadcn** ([Shadcn UI Component Library](https://ui.shadcn.com))
 - **Tailwind CSS** (default styling from Shadcn)'=
 -  **NodeJs**
 
@@ -49,7 +49,7 @@ Reference: [Authentication Example](https://ui.shadcn.com/examples/authenticatio
 - Use **React Context or Redux-toolkit** for state management.
 - Apply authentication with a node backend using JWT.
 - Use mock data for response from backend in APIs.
-- Include basic form validations for authentication.
+- Include basic form validations for authentication using [react-hook-form](https://www.react-hook-form.com).
 
 ### Deliverables
 
