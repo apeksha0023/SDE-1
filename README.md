@@ -15,7 +15,7 @@ This assignment is designed to assess your skills in building a modern frontend 
 
 - **React**&#x20;
 - **Shadcn** ([Shadcn UI Component Library](https://ui.shadcn.com))
-- **Tailwind CSS** (default styling from Shadcn)'=
+- **Tailwind CSS** (default styling from Shadcn)
 -  **NodeJs**
 
 #### 2. Features to Implement
