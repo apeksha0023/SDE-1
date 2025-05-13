@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "sender": "john@example.com",
+    "subject": "Welcome to our service",
+    "timestamp": "2025-05-08T09:00:00Z",
+    "content": "Thank you for signing up!",
+    "folder": "inbox"
+  },
+  {
+    "id": 2,
+    "sender": "admin@example.com",
+    "subject": "Weekly Update",
+    "timestamp": "2025-05-07T12:00:00Z",
+    "content": "Here are this week's updates...",
+    "folder": "inbox"
+  },
+  {
+    "id": 3,
+    "sender": "sales@example.com",
+    "subject": "Product Launch",
+    "timestamp": "2025-05-05T10:00:00Z",
+    "content": "Check out our latest product!",
+    "folder": "sent"
+  },
+  {
+    "id": 4,
+    "sender": "support@example.com",
+    "subject": "Support Ticket",
+    "timestamp": "2025-05-03T14:00:00Z",
+    "content": "Your ticket has been resolved.",
+    "folder": "drafts"
+  },
+  {
+    "id": 5,
+    "sender": "noreply@example.com",
+    "subject": "Password Reset",
+    "timestamp": "2025-05-02T11:30:00Z",
+    "content": "Click here to reset your password.",
+    "folder": "trash"
+  }
+]
