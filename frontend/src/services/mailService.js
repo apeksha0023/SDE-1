@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5000/api/mails";
+const BASE_URL = "https://sde-1-8pv1.onrender.com/api/mails";
 
 export const getInbox = async () => {
   const res = await axios.get(`${BASE_URL}/inbox`);
